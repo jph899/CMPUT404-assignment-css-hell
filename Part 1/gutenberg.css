@@ -1,0 +1,34 @@
+pre {
+	font-family: "Book Antiqua";
+	font-size: medium;
+}
+
+body { 
+	color: black;
+	background: beige;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-family: "Book Antiqua";
+}
+
+h1, h2, h3, h4, h5 { 
+	color: Black;
+	font-family: "Book Antiqua";
+}
+
+p {
+	color: Black;
+	font-family: "Book Antiqua";
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	border: 1px solid black;
+}
