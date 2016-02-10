@@ -1,0 +1,56 @@
+@import url("http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css");
+
+body {
+	background-color: white;
+  color: black;
+  font-family: "Times New Roman";
+}
+
+h1, h3 {
+  color: black;
+	text-align: center;
+}
+
+h1 {
+  display: block;
+  margin-left: 600px;
+  margin-right: 600px;
+  background-color: white;
+  padding: 1px;
+  border: 1px solid black;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1px;
+  border: 1px solid black;
+}
+
+.top {
+  background-image: url("mountains.png");
+  position:absolute;
+  left:0; right:0;
+  height: 235px;
+}
+.left {
+  border: 5px solid black;
+	margin: 0;
+  position:absolute;
+  left:0 ; top:235px; bottom: 0;
+  width: 188px;
+}
+.main {
+  border: 5px solid black;
+	margin: 0;
+  position: absolute;
+  left:184px; top:235px; right:0; bottom:0;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color:black;
+    background-color: grey;
+  }

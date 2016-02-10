@@ -6,6 +6,7 @@ The css is put in by editting the html file of the page and changing the style p
 
 License/Copyright
 =================
+http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
