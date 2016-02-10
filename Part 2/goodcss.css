@@ -1,7 +1,7 @@
 @import url("http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css");
 
 body {
-	background-color: white;
+	background-color: #4D87B1;
   color: black;
   font-family: "Times New Roman";
 }
@@ -15,7 +15,7 @@ h1 {
   display: block;
   margin-left: 600px;
   margin-right: 600px;
-  background-color: white;
+  background-color: #4D87B1;
   padding: 1px;
   border: 1px solid black;
 }
@@ -51,6 +51,6 @@ img {
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-    color:black;
-    background-color: grey;
+    color:black !important;
+    background-color: #4D87B1;
   }
