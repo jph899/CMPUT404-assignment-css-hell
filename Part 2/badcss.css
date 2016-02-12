@@ -33,6 +33,7 @@ img {
   width: 188px;
 }
 .main {
+  background-image: url("cat.png");
   border: 5px solid black;
 	margin: 0;
   position: absolute;

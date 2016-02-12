@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5 {
 	font-family: "Book Antiqua";
 }
 
+h1, h2 {
+	text-align: center;
+}
+
 p {
 	color: Black;
 	font-family: "Book Antiqua";
