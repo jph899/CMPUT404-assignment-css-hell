@@ -2,7 +2,11 @@ Assignment: CSS Hell
 ====================
 
 Part 1:
-The css is put in by editting the html file of the page and changing the style portion in the header portion of the html file with the css thats in the gutenberg.css file. 
+- Changed font to Book Antiqua font
+- Changed headers to be centered 
+- Added img borders 
+- Editted color of font to be black
+- Positioning of text
 
 License/Copyright
 =================
